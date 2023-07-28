@@ -1,0 +1,11 @@
+C:\Users\Tuna\Desktop\Udemy Ders\schoolExamSchedule\schoolExamSchedule\bin\Debug\schoolExamSchedule.exe.config
+C:\Users\Tuna\Desktop\Udemy Ders\schoolExamSchedule\schoolExamSchedule\bin\Debug\schoolExamSchedule.exe
+C:\Users\Tuna\Desktop\Udemy Ders\schoolExamSchedule\schoolExamSchedule\bin\Debug\schoolExamSchedule.pdb
+C:\Users\Tuna\Desktop\Udemy Ders\schoolExamSchedule\schoolExamSchedule\obj\Debug\schoolExamSchedule.csproj.AssemblyReference.cache
+C:\Users\Tuna\Desktop\Udemy Ders\schoolExamSchedule\schoolExamSchedule\obj\Debug\schoolExamSchedule.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tuna\Desktop\Udemy Ders\schoolExamSchedule\schoolExamSchedule\obj\Debug\schoolExamSchedule.Form1.resources
+C:\Users\Tuna\Desktop\Udemy Ders\schoolExamSchedule\schoolExamSchedule\obj\Debug\schoolExamSchedule.Properties.Resources.resources
+C:\Users\Tuna\Desktop\Udemy Ders\schoolExamSchedule\schoolExamSchedule\obj\Debug\schoolExamSchedule.csproj.GenerateResource.cache
+C:\Users\Tuna\Desktop\Udemy Ders\schoolExamSchedule\schoolExamSchedule\obj\Debug\schoolExamSchedule.csproj.CoreCompileInputs.cache
+C:\Users\Tuna\Desktop\Udemy Ders\schoolExamSchedule\schoolExamSchedule\obj\Debug\schoolExamSchedule.exe
+C:\Users\Tuna\Desktop\Udemy Ders\schoolExamSchedule\schoolExamSchedule\obj\Debug\schoolExamSchedule.pdb
